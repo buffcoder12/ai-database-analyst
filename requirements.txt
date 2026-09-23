@@ -6,3 +6,4 @@ sqlparse
 streamlit 
 pandas
 plotly
+pytest
