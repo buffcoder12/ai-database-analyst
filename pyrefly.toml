@@ -1,0 +1,4 @@
+[pyrefly]
+# Tell Pyrefly to resolve imports from the project root,
+# so "from app.xxx import ..." resolves correctly.
+search_path = ["."]
