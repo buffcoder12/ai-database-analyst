@@ -578,6 +578,7 @@ pytest -v
 
 # 📁 Project Structure
 
+```
 ai-database-analyst/
 │
 ├── app/
@@ -619,7 +620,8 @@ ai-database-analyst/
 ├── .env.example
 ├── .gitignore
 └── README.md
-
+```
+---
 
 # ⚙️ Installation
 
