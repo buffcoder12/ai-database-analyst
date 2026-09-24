@@ -578,8 +578,7 @@ pytest -v
 
 # 📁 Project Structure
 
-```text
-ai-text-to-sql/
+ai-database-analyst/
 │
 ├── app/
 │   ├── __init__.py
@@ -598,11 +597,14 @@ ai-text-to-sql/
 │   ├── query_cache.py
 │   ├── schema_retriever.py
 │   ├── observability.py
-│   ├── ui.py
 │   └── main.py
 │
 ├── database/
 │   └── init.sql
+│
+├── screenshots/
+│   ├── dashboard.png
+│   └── query-result.png
 │
 ├── tests/
 │   ├── __init__.py
@@ -611,19 +613,13 @@ ai-text-to-sql/
 │   ├── test_schema_retriever.py
 │   └── test_sql_validator.py
 │
-├── test_gemini.py
-├── test_schema.py
-├── test_schema_retriever.py
 ├── run.py
-│
-├── .env.example
-├── .gitignore
 ├── pyrefly.toml
 ├── requirements.txt
+├── .env.example
+├── .gitignore
 └── README.md
-```
 
----
 
 # ⚙️ Installation
 
