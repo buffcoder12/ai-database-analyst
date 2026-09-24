@@ -36,6 +36,20 @@ The system understands the question, identifies the relevant database tables, ge
 
 ---
 
+---
+
+# 📸 Application Preview
+
+## AI Database Analyst Dashboard
+
+![AI Database Analyst Dashboard](screenshots/dashboard.png)
+
+## Query Analysis and Results
+
+![Query Analysis and Results](screenshots/query-result.png)
+
+---
+
 # ✨ Features
 
 - Natural-language to SQL generation
